@@ -1,18 +1,27 @@
-## Getting Started
+# Java Alarm Clock
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+A simple and effective **Java-based Alarm Clock** application that lets users set alarms and get notified when the alarm time is reached. Designed for easy use and customizable to fit different needs.
 
-## Folder Structure
+## Features
 
-The workspace contains two folders by default, where:
+- Set multiple alarms with customizable times  
+- Simple and intuitive console or GUI interface  
+- Alarm notification with sound and message  
+- Option to snooze or stop the alarm  
+- Lightweight and easy to run on any system with Java installed
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## How to Use
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+### Requirements
+- Java 8 or later  
+- IDE (optional) or command line  
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+### Running the Alarm Clock
 
-## Dependency Management
+1. Clone or download the repository  
+2. Compile the Java files:  
+   ```bash
+   javac AlarmClock.java
+    ```bash
+    java AlarmClock
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
